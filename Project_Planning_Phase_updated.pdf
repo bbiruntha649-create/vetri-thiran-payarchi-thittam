@@ -1,0 +1,547 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 9 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7379
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 784.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL 174.1478 0 Td (Project Planning Phase) Tj T* -174.1478 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 767.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL 63.23051 0 Td (Project Planning Template \(Product Backlog, Sprint Planning, Stories, Story points\)) Tj T* -63.23051 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 760.874 cm
+Q
+q
+1 0 0 1 42.51969 672.874 cm
+q
+.960784 .960784 .960784 rg
+n 0 88 99.2126 -88 re f*
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 5 74.5 Tm (Date) Tj T* ET
+BT 1 0 0 1 104.2126 74.5 Tm (15 February 2025) Tj T* ET
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 5 52.5 Tm (Team ID) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 104.2126 52.5 Tm (SWTID-2026-4968) Tj T* ET
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 5 30.5 Tm (Project Name) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 104.2126 30.5 Tm (Script - controlled ACL - Restrict Record Access Based On Field Value) Tj T* ET
+BT 1 0 0 1 5 8.5 Tm (Maximum Marks) Tj T* ET
+BT 1 0 0 1 104.2126 8.5 Tm (5 Marks) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 88 m 510.2362 88 l S
+n 0 0 m 510.2362 0 l S
+n 0 0 m 0 88 l S
+n 510.2362 0 m 510.2362 88 l S
+n 0 66 m 510.2362 66 l S
+n 0 44 m 510.2362 44 l S
+n 0 22 m 510.2362 22 l S
+n 99.2126 0 m 99.2126 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 662.874 cm
+Q
+q
+1 0 0 1 45.68504 637.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (Product Backlog, Sprint Schedule, and Estimation \(4 Marks\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 620.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Use the below template to create product backlog and sprint schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 615.874 cm
+Q
+q
+1 0 0 1 34.01575 459.874 cm
+q
+.827451 .827451 .827451 rg
+n 0 156 527.2441 -26 re f*
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 3 143 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 12.84741 0 Td (Sprint) Tj T* -12.84741 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.02362 134 cm
+q
+BT 1 0 0 1 0 10.6 Tm 22.45159 0 Td 9 TL /F1 7.4 Tf 0 0 0 rg (Functional) Tj  T* -14.8 0 Td (Requirement \(Epic\)) Tj T* -7.651585 0 Td ET
+Q
+Q
+q
+1 0 0 1 139.063 134 cm
+q
+BT 1 0 0 1 0 10.6 Tm 5.036711 0 Td 9 TL /F1 7.4 Tf 0 0 0 rg (User Story) Tj  T* 4.3179 0 Td (Number) Tj T* -9.354611 0 Td ET
+Q
+Q
+q
+1 0 0 1 190.0866 143 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 70.46844 0 Td (User Story / Task) Tj T* -70.46844 0 Td ET
+Q
+Q
+q
+1 0 0 1 394.1811 134 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.6 Tm /F1 7.4 Tf 9 TL 9.624043 0 Td (Story) Tj T* -1.6465 0 Td (Points) Tj T* -7.977543 0 Td ET
+Q
+Q
+q
+1 0 0 1 436.7008 143 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 6.749143 0 Td (Priority) Tj T* -6.749143 0 Td ET
+Q
+Q
+q
+1 0 0 1 479.2205 134 cm
+q
+BT 1 0 0 1 0 10.6 Tm 13.05461 0 Td 9 TL /F1 7.4 Tf 0 0 0 rg (Team) Tj  T* -5.960699 0 Td (Members) Tj T* -7.093911 0 Td ET
+Q
+Q
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 9.558111 0 Td (Sprint-1) Tj T* -9.558111 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.02362 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL (Access Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139.063 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 11.41181 0 Td (USN-1) Tj T* -11.41181 0 Td ET
+Q
+Q
+q
+1 0 0 1 190.0866 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.6 Tm /F1 7.4 Tf 9 TL (As an administrator, I can create a script-controlled ACL to) Tj T* (restrict record access based on a field value.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 394.1811 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 16.20264 0 Td (2) Tj T* -16.20264 0 Td ET
+Q
+Q
+q
+1 0 0 1 436.7008 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 10.65264 0 Td (High) Tj T* -10.65264 0 Td ET
+Q
+Q
+q
+1 0 0 1 479.2205 126 cm
+Q
+q
+1 0 0 1 3 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 9.558111 0 Td (Sprint-1) Tj T* -9.558111 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.02362 100 cm
+Q
+q
+1 0 0 1 139.063 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 11.41181 0 Td (USN-2) Tj T* -11.41181 0 Td ET
+Q
+Q
+q
+1 0 0 1 190.0866 82 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.6 Tm /F1 7.4 Tf 9 TL (As an authorized user, I can access records when the) Tj T* (required field value meets the access condition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 394.1811 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 16.20264 0 Td (2) Tj T* -16.20264 0 Td ET
+Q
+Q
+q
+1 0 0 1 436.7008 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 10.65264 0 Td (High) Tj T* -10.65264 0 Td ET
+Q
+Q
+q
+1 0 0 1 479.2205 100 cm
+Q
+q
+1 0 0 1 3 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 9.558111 0 Td (Sprint-2) Tj T* -9.558111 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.02362 74 cm
+Q
+q
+1 0 0 1 139.063 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 11.41181 0 Td (USN-3) Tj T* -11.41181 0 Td ET
+Q
+Q
+q
+1 0 0 1 190.0866 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.6 Tm /F1 7.4 Tf 9 TL (As an unauthorized user, I cannot access records when the) Tj T* (field value does not meet the defined access condition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 394.1811 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 16.20264 0 Td (2) Tj T* -16.20264 0 Td ET
+Q
+Q
+q
+1 0 0 1 436.7008 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 10.65264 0 Td (High) Tj T* -10.65264 0 Td ET
+Q
+Q
+q
+1 0 0 1 479.2205 74 cm
+Q
+q
+1 0 0 1 3 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 9.558111 0 Td (Sprint-1) Tj T* -9.558111 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.02362 48 cm
+Q
+q
+1 0 0 1 139.063 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 11.41181 0 Td (USN-4) Tj T* -11.41181 0 Td ET
+Q
+Q
+q
+1 0 0 1 190.0866 30 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.6 Tm /F1 7.4 Tf 9 TL (As an administrator, I can test the ACL script and verify) Tj T* (record access for different field values.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 394.1811 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 16.20264 0 Td (2) Tj T* -16.20264 0 Td ET
+Q
+Q
+q
+1 0 0 1 436.7008 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 5.102643 0 Td (Medium) Tj T* -5.102643 0 Td ET
+Q
+Q
+q
+1 0 0 1 479.2205 48 cm
+Q
+q
+1 0 0 1 3 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 9.558111 0 Td (Sprint-1) Tj T* -9.558111 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.02362 13 cm
+q
+BT 1 0 0 1 0 1.6 Tm 9 TL /F1 7.4 Tf 0 0 0 rg (Testing & Validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139.063 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 11.41181 0 Td (USN-5) Tj T* -11.41181 0 Td ET
+Q
+Q
+q
+1 0 0 1 190.0866 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.6 Tm /F1 7.4 Tf 9 TL (As an administrator, I can validate that the ACL restricts) Tj T* (record access correctly without affecting permitted records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 394.1811 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 16.20264 0 Td (1) Tj T* -16.20264 0 Td ET
+Q
+Q
+q
+1 0 0 1 436.7008 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 7.4 Tf 9 TL 10.65264 0 Td (High) Tj T* -10.65264 0 Td ET
+Q
+Q
+q
+1 0 0 1 479.2205 22 cm
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 156 m 527.2441 156 l S
+n 0 0 m 527.2441 0 l S
+n 0 0 m 0 156 l S
+n 527.2441 0 m 527.2441 156 l S
+n 0 130 m 527.2441 130 l S
+n 0 104 m 527.2441 104 l S
+n 0 78 m 527.2441 78 l S
+n 0 52 m 527.2441 52 l S
+n 0 26 m 527.2441 26 l S
+n 51.02362 0 m 51.02362 156 l S
+n 136.063 0 m 136.063 156 l S
+n 187.0866 0 m 187.0866 156 l S
+n 391.1811 0 m 391.1811 156 l S
+n 433.7008 0 m 433.7008 156 l S
+n 476.2205 0 m 476.2205 156 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+146 744.6898 80 10.2 re
+f*
+0 0 0 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 146.7 747.3898 Tm
+(29 September 2026) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1372
+>>
+stream
+Gatm<gN)%,&:N/3lr-F"6jW3'o%)SWmA-kJB_%r8NWe*W,grM;Hi3V@?9j+.(tGi[@oL_TY\/1+6<Z(9pgWprjVHe1*8Z'P^c9QAJ4UqnrY[oF-iZnC4&[W''1F47,U&#,\-u5>a1ABlnJ7LjQG315J[&rG>/,r1QsLR(X]q)F0@Jqm=1j:VDNca*jWj[-n+K2Yar`B`J!1Z0>?FQFr1+TfG)M7dR,>dY<Q4).^3W72+[TqC5o\N6+pg2+0mNOGXs[A[%/D?7&;;4D9Gf/t>eQSNQBO?@aIUn5i!3[%?tj+!>ggZC&R@i!$DsesGQkP0K2p=Z<9&r5$Du_KMKMsGcXoQ:^en["[bNW/'N%B[c=g]%%4Z4[Bst9@*]b?j,3F0=DW"`e(QUG-MM!(@)W&oSb`U^6Udqh'A+UVe6mO7=M[ZJ7>K'][qSU$<bB9D!`eX>_EK-Gb.jNN[$*-BS8..lk2$b;Pde+b#9K\Q6i^Cp73L(bhXFqmSS]Xc%jC>X`BiI36+,]aCdToO"2eeSg<F7"-NY\]nA)S&`'#?R@A]JK<L8LW^13Qhl[=fZ!92358Y(WKT9^hT?h8Y^tKghR#TM98j(3N&_2m`1SF$"=KR452=)0$$o:T-MnS;KNp[A<);`rE*o\9-ng3T(`?h<B&:rI%i:dnRVX0LE<ZC;A@AYiFo(k&CG<QCHjD11R"q"+:#WM)*?oiM&Qd3:0^*5fQTY31j'=ejuD6NTk]s%]]UkIU9s\[[;D:rHZ4*r/4oqS8oZ#24-.J;T)"o&n>b@3hAhHp4lSd%tH)*;A19D@Lb1X7)fTkc>>j(lcSq2gOgr1DM&X9.kgngnqo4%o(%\0q(1VBB6mZdK#O'XXF7,^l<Qn;rKH+\fFOj<Q^9PR(X^VS3!K`Jnn\XJcW4_DnWta_cKDM^1sRrW*0jKMKi2t[+bM6($B;AV<%.a-LfPq4:ZDdF#%HV72M'"`$T,lsbOlb7nQFojAU14L-KEVoAc@NGD7hjq0=3aTrkcG)#uQpiNQqHdkLVp0JqpN#htFa528giOL1gk>_8eC"(ebh##\=tu3:[(C;?;:m%u;J6E9%%Y?>.9'%_ActRY)^S*:R7/g^<KS!Np"/Y8[.f*p:s0!iYU+d,RH[-:8O)%=28OeRYYr]7J#;4T/FH09nB*dU(lPa//.+G`I\[1m6pb(4D)uoiFh*7rOLk'C=<bQoRS9HbQp>64SK_e*D/=i5*6(HLDuq'4SCB+(<cCRB-&(j#*Xbpm*iKmet+,IT;G%QYp6F_c">mqQ=_FiQ`2*#)`ijT3]"cSF9jRDO1//p8d#dqK)-)'F>K<F^P7if^F`VHFn=a)CD]7eg2NP]"\aa,3sjh3LK^Io%@X8~>
+endstream
+endobj
+11 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 657
+>>
+stream
+Gb!$DgQ'`:&;KZN'Q^f-Ec@I7]6>e-J]&"Z(RR84`$M[@m53hiESYe^5ueh#/OGS?Obs,<S+2H^+Ee:eDr(LWPRr7N^_/')^sXojnh[p3(I&]%oOjVHq'q;$-s!Bf<MXN#MoIr\l\-![O.&h?F*\-Hk4P#F[C_2[b=[a,hDM8!r@9:?:qf-'Hu[IYVmNu!<#i"WXM%QlS_h6'H%@p7#;Znq&8I2Q,<3-)WRkZO>-pUf:g4d%rXLMs/Qh*M_Oe+P$s:nS#bSb[g00Xn(ofhl^fn)J`dJh('3)?:<qW$44=>=(O_n'o>#bqc?j>Hf)Yh>Fd"UsdNGaT%o-^O=NY45Qf_;Le?B,9P:[#4?&\#Q@UD?bK)EL2@B\YQW(Tgt4%ao&T!dOPZF^A\C3a[mpbA7!Z]X/--[Cs,3U2_0j]eBPs6&up7;0O0b?"=G1351$iWAt#eKP1QHbGV&ooO_dD/K,j1H<e5FOWCOO!a??:NbkjCkGr=X4D0.&=^Pl9RO"dK6^=Q&;jUF4"s$=;l1l;mYUnDT"\Gj<!&s=SUW1*LTMiV2%7air?mdc8kK0<X7?U>W_;Z9VJpP8roNs^DkLo_*3M-L5]bYY6W+8\jbiO)3s._3,aLGa0h\.fM$T=!8XoGjt.Eg-eA6Aa2n>RWM~>
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000126 00000 n 
+0000000175 00000 n 
+0000000418 00000 n 
+0000007849 00000 n 
+0000007956 00000 n 
+0000008063 00000 n 
+0000008175 00000 n 
+0000008376 00000 n 
+0000009841 00000 n 
+0000009883 00000 n 
+0000010085 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+10834
+%%EOF

@@ -1,0 +1,536 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 9 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 14 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6795
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 195.6373 19.84252 Tm (Project Design Phase-II  |  Team ID: SWTID-2026-4968  |  Page 1) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 781.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 13 Tf 15 TL 174.036 0 Td (Project Design Phase-II) Tj T* -174.036 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 767.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 135.09 0 Td 14 TL /F2 11.5 Tf 0 0 0 rg (Technology Stack \(Architecture & Stack\)) Tj T* -135.09 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 693.2047 cm
+q
+0 0 0 rg
+BT /F2 8 Tf 8 TL ET
+q
+1 0 0 1 3.5 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216.0984 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (31 January 3035) Tj T* ET
+Q
+Q
+BT /F1 8 Tf 8 TL ET
+q
+1 0 0 1 3.5 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (Team ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216.0984 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (SWTID-2026-4968) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3.5 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216.0984 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (Script - controlled ACL - Restrict Record Access Based On Field Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3.5 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216.0984 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (4 Marks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 64 m 481.8898 64 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 64 l S
+n 481.8898 0 m 481.8898 64 l S
+n 0 48 m 481.8898 48 l S
+n 0 32 m 481.8898 32 l S
+n 0 16 m 481.8898 16 l S
+n 212.5984 0 m 212.5984 64 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 687.2047 cm
+Q
+q
+1 0 0 1 51.35433 671.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 9.5 Tf 11 TL (Technical Architecture:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.2047 cm
+q
+BT 1 0 0 1 0 1.9 Tm 10 TL /F1 8.1 Tf 0 0 0 rg (The deliverable shall include the architectural diagram and the information as per Table-1 & Table-2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 646.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 8.1 Tf 10 TL (Example: Script-controlled ACL for restricting record access based on field value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 636.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.1 Tf 10 TL (Reference: Project-specific access-control implementation using ACL conditions and scripts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 632.2047 cm
+Q
+q
+1 0 0 1 51.35433 476.2992 cm
+0 0 0 RG
+.8 w
+n 2 5 477.8898 145.9055 re S
+n 134.9291 5 m 134.9291 150.9055 l S
+n 346.9606 5 m 346.9606 150.9055 l S
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 57.74157 152.9055 Tm (USER) Tj T* ET
+BT 1 0 0 1 194.8604 152.9055 Tm (APPLICATION / PLATFORM) Tj T* ET
+BT 1 0 0 1 390.3172 152.9055 Tm (DATA / ADMIN) Tj T* ET
+1 1 1 rg
+0 0 0 RG
+n
+13 25 m
+57 25 l
+58.6584 25 60 26.3416 60 28 c
+60 47 l
+60 48.6584 58.6584 50 57 50 c
+13 50 l
+11.3416 50 10 48.6584 10 47 c
+10 28 l
+10 26.3416 11.3416 25 13 25 c
+h
+B*
+0 0 0 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 14.5775 39 Tm (User / Client) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+BT 1 0 0 1 14.492 29 Tm (Record request) Tj T* ET
+.94902 .94902 .94902 rg
+0 0 0 RG
+n
+73 42 m
+132 42 l
+133.6584 42 135 43.3416 135 45 c
+135 61 l
+135 62.6584 133.6584 64 132 64 c
+73 64 l
+71.3416 64 70 62.6584 70 61 c
+70 45 l
+70 43.3416 71.3416 42 73 42 c
+h
+B*
+0 0 0 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 78.9695 53 Tm (Application UI) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+BT 1 0 0 1 80.993 43 Tm (Form / List / API) Tj T* ET
+.913725 .945098 .968627 rg
+0 0 0 RG
+n
+73 10 m
+132 10 l
+133.6584 10 135 11.3416 135 13 c
+135 29 l
+135 30.6584 133.6584 32 132 32 c
+73 32 l
+71.3416 32 70 30.6584 70 29 c
+70 13 l
+70 11.3416 71.3416 10 73 10 c
+h
+B*
+0 0 0 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 65.75 21 Tm (Script-Controlled ACL) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+BT 1 0 0 1 78.74 11 Tm (Condition + Script) Tj T* ET
+BT 1 0 0 1 88.826 4 Tm (evaluation) Tj T* ET
+.94902 .94902 .94902 rg
+0 0 0 RG
+n
+151 42 m
+210 42 l
+211.6584 42 213 43.3416 213 45 c
+213 61 l
+213 62.6584 211.6584 64 210 64 c
+151 64 l
+149.3416 64 148 62.6584 148 61 c
+148 45 l
+148 43.3416 149.3416 42 151 42 c
+h
+B*
+0 0 0 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 160.6655 53 Tm (ACL Engine) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+BT 1 0 0 1 157.241 43 Tm (Role + field-value) Tj T* ET
+BT 1 0 0 1 171.164 36 Tm (checks) Tj T* ET
+1 1 1 rg
+0 0 0 RG
+n
+151 10 m
+210 10 l
+211.6584 10 213 11.3416 213 13 c
+213 29 l
+213 30.6584 211.6584 32 210 32 c
+151 32 l
+149.3416 32 148 30.6584 148 29 c
+148 13 l
+148 11.3416 149.3416 10 151 10 c
+h
+B*
+0 0 0 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 149.9625 21 Tm (Record / Database) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+BT 1 0 0 1 156.824 11 Tm (Protected records) Tj T* ET
+0 0 0 RG
+n 60 37 m 70 53 l S
+n 70 53 m 65.54353 50.73287 l S
+n 70 53 m 69.91497 48.00072 l S
+0 0 0 RG
+n 102 42 m 102 32 l S
+n 102 32 m 104.5775 36.28444 l S
+n 102 32 m 99.42249 36.28444 l S
+0 0 0 RG
+n 135 21 m 148 21 l S
+n 148 21 m 143.7156 23.57751 l S
+n 148 21 m 143.7156 18.42249 l S
+0 0 0 RG
+n 135 53 m 148 53 l S
+n 148 53 m 143.7156 55.57751 l S
+n 148 53 m 143.7156 50.42249 l S
+0 0 0 RG
+n 180 42 m 180 32 l S
+n 180 32 m 182.5775 36.28444 l S
+n 180 32 m 177.4225 36.28444 l S
+BT /F1 6 Tf 7.2 TL ET
+BT 1 0 0 1 5 1 Tm (Access is granted or denied based on the configured ACL condition and field value.) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 473.2992 cm
+Q
+q
+1 0 0 1 51.35433 457.2992 cm
+q
+BT 1 0 0 1 0 1.5 Tm 11 TL /F2 9.5 Tf 0 0 0 rg (Table-1 : Components & Technologies:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 416.2992 cm
+q
+0 0 0 rg
+BT /F2 6.6 Tf 8 TL ET
+q
+1 0 0 1 3.5 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.3 Tm /F2 6.7 Tf 8 TL (S.No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.6811 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.3 Tm /F2 6.7 Tf 8 TL (Component) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139.563 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.3 Tm /F2 6.7 Tf 8 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 332.3189 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.3 Tm /F2 6.7 Tf 8 TL (Technology) Tj T* ET
+Q
+Q
+BT /F1 6.6 Tf 8 TL ET
+q
+1 0 0 1 3.5 11 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.3 Tm /F1 6.7 Tf 8 TL (1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.6811 11 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.3 Tm /F1 6.7 Tf 8 TL (User Interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139.563 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9.3 Tm /F1 6.7 Tf 8 TL (How user interacts with the application to view, create or) Tj T* (update records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 332.3189 11 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.3 Tm /F1 6.7 Tf 8 TL (HTML, CSS, JavaScript / ServiceNow UI) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 36 m 481.8898 36 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 36 l S
+n 481.8898 0 m 481.8898 36 l S
+n 0 22 m 481.8898 22 l S
+n 31.1811 0 m 31.1811 36 l S
+n 136.063 0 m 136.063 36 l S
+n 328.8189 0 m 328.8189 36 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+271.8 742.8898 120.3 11.1 re
+f*
+0 0 0 rg
+BT
+/F1-0 8.1 Tf
+9.72 TL
+ET
+BT
+1 0 0 1 272.8 746.0908 Tm
+(29 September 2026) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2306
+>>
+stream
+Gau`VhfIO1%"?N0JYuebfnq6#ZCF'h8\1ab[V>*107BO*g1Djn/gWO&DL_RLlF1P3)KWStYDjeU!/M..5<pMK_EUHg)f,P(S&<3\!lTih$A`K.0Y`Ctq:XB+>V].X^O2&;8ZmY=a-Pm^*5&M'f,g]E/Y#$rnX0Oegp!0L,C%kfQjrNP!<*"d1V/:PRnK,sSDW-2m?-cFh5TRQi<*@AY[>6E1X(>LVEUXdKrm)7S?_B>0_*2L4`Vq6I-)Y&(IY@0nph;5lG[NXVWtuib=<],E'C1XO:;M$_R8%a7)YfFL7chp?k\AnX>u3tds3(1KL[IqIX9Q6VW!SKGuK'I(Tpj2V_FA>cNZ&o^b:=Dr4[dbgNL=2Xnm&X[@Bq8Uf;D!ZegO>^DtkrI#NTLmP6>q#)In/oc-m4Qkb25]7c*@I1;3R3Q.PYg*kp-4tr+3oP%,kdp=q(e#$u)6XlqgC:=Rr5ZPb\*`Fm4P&>5.jHQWXMlH"O$bjQ@C`#_:2.^dEQ6:?EB%C\'"MVh8i%%eUfkZ/#9-l$73_*>_KKTcC#!CUtE0!V9UgL#c^u?2s/Dr6t4;"nT"jDSlL@4;"-Q67*N6+5H_\dfWls[M3bQ-WE.HYN3:3QmZCApC!m*6"^PEU!%bCEfN)bk?pYHI<p2o?ppiFh%MO;;:>XnXrBX9(U:DFan>S1qM8&VHtj_ma1X5*(8LTm1%i*q5Xg$m!)8*WMrPlJC13P1p(]1X4gPmW>3f4rLL]e?p_.<JllPQuriKZPo-DLnY&W$-?SQ0MV%Y>\!$IjT(kt:Y;>Y5JX0'"!J9VOK#9ipPA^>D&=]iq_hWY>e>MV>f1N3S7;k,=i+Sk,e1//ke$dgRKLan*pB)-^7bj5X6>;n3>o.]aCbgrM3V19Z>;1TFTSN4Y&35SUai$qB-etBc3ek7AF\3,dKa<hJ3:,6]1G?mq#RZR+1KT7-4R,+nhb0hkk+r-9_3BTdUfoV-,ekT`7c=doL"T#*tMJ.+n!AG=^6TNX###;MJ%(gj%`t3Zh!`t=+m&3HS.ao71RZLBs[#fi:[SCJp;%K&glE?Rjig2E?eI0L+Q+I]Mg&XQ5=L[#%opT^)Nu^SWJ/Q??*Ao.ji<uOm9(<+/l9&AP+M"eZi7f8oXCc?npPs!/k$7/:L(.\NL8k`/"s!h*@GY^AWd;8*rlL%sL0]\S"=QhXC#pNtp5jKGQ/mW+d.jdd%P249\Q5[0/!/[eR;XUb(CBHJiWUTZ>g?>Qk@Prl>kDMPI_G&<DfA^pG%i1W9fZ]8?9e8\iLl`cAm>:*aJ!<Rl2Zd9:p1OiBq<&9/jdXKr*_Gt%t;c?+L/5h@PF#3\*;V`u&A_eZ.F/IaUq3SlPA,8K+F!i]sZLMau@hMJ&^NtnfDccXA<U9[5`r`XG<-+[YhV76&r!R"WWU2F*Aeq\.4"\c&WW]V\)'/--PT9(,4b=M51[$!7@A/Z^12#)0a9a3:u2:XZ@mOM[(,%?%X3/J/+f0EiJAr_FsD0`qJ1<Nls<RfEV]sk(T/il#hcnM4se_AF@d*;`iGXcjkB)t-S_]/ON3B-d/qjHQ^doh@U[c>4?>b>-45P=\$C=/bQ>qg"U*n=Su^!`Xr[[SJQ;F^/i-;q=LB]:m;G[$'F%B%`n.<=d0#]E?JBt0jS$^'?9_QTL!)ErD2$Z<ia\%^MW>'#6^/><J?\PQO40d;WjNA-og[(*97NpU&barLB'`D%NUE&\.W-M(_k<)1;k^L4Z*U[i^lNf0<C5/#:^q>'72^4^fA?>ld<!H*`V:3[=WG)trp1,0g$TB>AkRb!t-5$371k2kSt0ZADt1\75.p1>XX1pJtaVEGD,1WAg,//lf%.Zq<UQ?:<AK`'7#*4+M[*jO<eMbn$Gbj;>d>G'Y,:ER<N3l1%UL[kDa+MKs.O>=77`4Q?=nI`c7nP#Ld8?0:!1o()3$s<lIP.5eI,AL,Pl]%bKRc+_JN#$o-A,3V=@rlT.kc[!0O>ZVII2]Ig>6bBhp[c.5aHuPk-=YaOo_A,hVKdh@7ia^2-*^08QmRjL=^]f$bh*CaFS0e<cas2t9NR]WZ!rQpa>0M/g!L'@%(6j38?+`Tg77c3Z'r;+V0MiV9u9&AAu[G^LFrN=LL0-];eu\'TSMb&=iQC9mjZ;9i*ihF^o1PKC')_e:NH8uG/pBc=b\E'9*/R&q\%X#q;A-EdNa`bRV[Z<J#bc<)"Jmm&U&3]gJ5]c5/k3OQocf2p&]-Ag?fZTqRV'La3NH"s5TcSM'/Q?koSOVRY^7Jj%VpIdJlS].h@Gg]NaJo`mOCI8q*;+(\3N\_qDeec)\h~>
+endstream
+endobj
+11 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 925
+>>
+stream
+Gat=)hf%4&&:WfG\>P0YMi6VW++<J/F^gdt=sE@10<TAHgQ4*:l.0Qur6?HW!>/?U'P.+-qn>.AGNLTR+0Y^p$K,D&k;OBj$h54Ha#o0m_P_YJF3n"jCC%Op>31_O*fZR@!^Qo(HL@/*XC+"Fq'2mPY-H?3%&Q[#TJMu9quqmRY$c9u!OEm<jP"TDY4$Ut+4eH2>TehYL`[dhDkV'*7#Nqb9T2+X+:-$3*I.[J-hF8pS&I9;qUjFu3PTPWZ9ntX>Pc6>5,@DP(N?okVcq2?k8@MVV3.cGUPi$N!q(gncUsa.R,">$d+KT'1I#n)b)c%=#[)P)K-,8>D9iSF:cLt?&8`+F$T]rY)>f`odLmVm6]1Rof6aL\7H'i]6koDD_N6U=d;,6Mr]gTPn1Zm8,"Auanha^dlle3c5'ekEH4qR]KcIH!hTBPmVeG5'=ij@r)fF^b6I5h^'IsL)cj?.8@1XjFZV2m<Adc,]q?j)lYlL<?[F1G-l-"jJd83$i3jJR^/45+[+jCB?ZBPmL!$GW-?42it!`+Vfg=mX>CJ5D^@NhZrWi(Hq<E3FI,cRn4.'Z9ONd=$`Tm9,ffQ^h*b7W$.OsTlB'=b;p$<igoZF%aBR,1k7EIB5)Y4Ngh,N1<J4Z7]U4qF"k^BPR84V(TOKq*j*'\Z[sZe@+e?6APcO'_Qtm5XH%lki.V88uSNr2d:HGGhqV=_O(1Xkfd/$^Xn1QKuHUUbUcp2oVpm]3a)'%rW;=Vml1XS>/A"LZ5&C5IX14oTfaBYXUU)juIL?2(D>+YKMI]A?H_K;^YVmRtg(XQc%lu8eNnXEg)#Q[MC!b$`m^ZYB7ZiMs_aS275$9D+H@&)838T2+\RW-r$P\b0[)mNu]s\p"]:&hn-$%Y>#[BV,U7_'OD]ce0Sup^"Y*qTC'Z"K7@]B#u:~>
+endstream
+endobj
+14 0 obj
+<<
+>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000126 00000 n 
+0000000192 00000 n 
+0000000423 00000 n 
+0000007270 00000 n 
+0000007377 00000 n 
+0000007484 00000 n 
+0000007596 00000 n 
+0000007797 00000 n 
+0000010196 00000 n 
+0000010238 00000 n 
+0000010440 00000 n 
+0000011457 00000 n 
+trailer
+<<
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+11479
+%%EOF

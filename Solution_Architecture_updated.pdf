@@ -1,0 +1,642 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 10 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+/Annots [ 11 0 R ]
+>>
+endobj
+5 0 obj
+<<
+/Length 10592
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 745.8898 cm
+q
+BT 1 0 0 1 0 19 Tm 163.3948 0 Td 15 TL /F2 11 Tf 0 0 0 rg (Project Design Phase) Tj  T* .318995 0 Td (Solution Architecture) Tj T* -163.7138 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 729.8898 cm
+Q
+q
+1 0 0 1 72.6378 640.8898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 73 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 73 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (29 September 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (Team ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (SWTID-2026-4968) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 28.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 10.5 Tf 13 TL (Script - controlled ACL - Restrict Record) Tj T* (Access Based On Field Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (4 Marks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 89 m 450 89 l S
+n 0 0 m 450 0 l S
+n 0 0 m 0 89 l S
+n 450 0 m 450 89 l S
+n 0 70 m 450 70 l S
+n 0 51 m 450 51 l S
+n 0 19 m 450 19 l S
+n 225 0 m 225 89 l S
+Q
+Q
+Q
+q
+1 0 0 1 78 622.8898 cm
+Q
+q
+1 0 0 1 78 600.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Solution Architecture:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 564.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F1 11.5 Tf 15 TL (Solution architecture is a complex process \226 with many sub-processes \226 that bridges) Tj T* (the gap between business problems and technology solutions. Its goals are to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 556.8898 cm
+Q
+q
+1 0 0 1 78 541.8898 cm
+BT /F1 11 Tf 13.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 102 541.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 11.5 Tf 15 TL (Find the best tech solution to solve existing business problems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 511.8898 cm
+BT /F1 11 Tf 13.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 102 511.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F1 11.5 Tf 15 TL (Describe the structure, characteristics, behavior, and other aspects of the) Tj T* (software to project stakeholders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 496.8898 cm
+BT /F1 11 Tf 13.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 102 496.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 11.5 Tf 15 TL (Define features, development phases, and solution requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 466.8898 cm
+BT /F1 11 Tf 13.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 102 466.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F1 11.5 Tf 15 TL (Provide specifications according to which the solution is defined, managed, and) Tj T* (delivered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 448.8898 cm
+Q
+q
+1 0 0 1 78 426.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Example - Solution Architecture Diagram:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 414.8898 cm
+Q
+q
+1 0 0 1 78 144.8898 cm
+0 0 0 RG
+1 1 1 rg
+1 w
+n
+29 232 m
+29 235.866 25.86599 239 22 239 c
+18.13401 239 15 235.866 15 232 c
+15 228.134 18.13401 225 22 225 c
+25.86599 225 29 228.134 29 232 c
+B*
+n 22 225 m 22 205 l S
+n 8 218 m 36 218 l S
+n 22 205 m 12 190 l S
+n 22 205 m 32 190 l S
+BT /F2 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 13.66375 178 Tm (User) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 -1.81085 170 Tm (\(opens a record /) Tj T* ET
+BT 1 0 0 1 -1.81085 163 Tm (list, e.g. Incident\)) Tj T* ET
+.862745 .921569 .980392 rg
+.180392 .458824 .713725 RG
+1 w
+n
+68 200 m
+136 200 l
+139.3168 200 142 202.6832 142 206 c
+142 249 l
+142 252.3168 139.3168 255 136 255 c
+68 255 l
+64.6832 255 62 252.3168 62 249 c
+62 206 l
+62 202.6832 64.6832 200 68 200 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 75.94875 232.5 Tm (ServiceNow UI) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 73.99335 223.5 Tm (Form / List / Service) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 76.79055 216 Tm (Portal / REST API) Tj T* ET
+0 0 0 rg
+.862745 .921569 .980392 rg
+.180392 .458824 .713725 RG
+1 w
+n
+171 200 m
+244 200 l
+247.3168 200 250 202.6832 250 206 c
+250 249 l
+250 252.3168 247.3168 255 244 255 c
+171 255 l
+167.6832 255 165 252.3168 165 249 c
+165 206 l
+165 202.6832 167.6832 200 171 200 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 186.2488 232.5 Tm (ACL Engine) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 169.8575 223.5 Tm (Evaluates access for table,) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 184.7381 216 Tm (field & operation) Tj T* ET
+0 0 0 rg
+1 .941176 .85098 rg
+.878431 .556863 .043137 RG
+1 w
+n
+278 200 m
+361 200 l
+364.3168 200 367 202.6832 367 206 c
+367 249 l
+367 252.3168 364.3168 255 361 255 c
+278 255 l
+274.6832 255 272 252.3168 272 249 c
+272 206 l
+272 202.6832 274.6832 200 278 200 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 280.125 232.5 Tm (Script-Controlled ACL) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 279.9329 223.5 Tm (Condition + Script: answer =) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 304.7926 216 Tm (true / false) Tj T* ET
+0 0 0 rg
+1 .941176 .85098 rg
+.878431 .556863 .043137 RG
+1 w
+n
+396 200 m
+444 200 l
+447.3168 200 450 202.6832 450 206 c
+450 249 l
+450 252.3168 447.3168 255 444 255 c
+396 255 l
+392.6832 255 390 252.3168 390 249 c
+390 206 l
+390 202.6832 392.6832 200 396 200 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 395.2013 232.5 Tm (Script Include) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 399.3423 223.5 Tm (Reusable logic) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 406.8708 216 Tm (\(optional\)) Tj T* ET
+0 0 0 rg
+.921569 .882353 .960784 rg
+.482353 .309804 .639216 RG
+1 w
+n
+76 115 m
+179 115 l
+182.3168 115 185 117.6832 185 121 c
+185 164 l
+185 167.3168 182.3168 170 179 170 c
+76 170 l
+72.6832 170 70 167.3168 70 164 c
+70 121 l
+70 117.6832 72.6832 115 76 115 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 92.91375 147.5 Tm (Roles & Conditions) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 75.85575 138.5 Tm (Required roles and simple conditions) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 109.8191 131 Tm (checked first) Tj T* ET
+0 0 0 rg
+.87451 .94902 .882353 rg
+.180392 .545098 .239216 RG
+1 w
+n
+231 115 m
+279 115 l
+282.3168 115 285 117.6832 285 121 c
+285 164 l
+285 167.3168 282.3168 170 279 170 c
+231 170 l
+227.6832 170 225 167.3168 225 164 c
+225 121 l
+225 117.6832 227.6832 115 231 115 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 244.9988 151.25 Tm (Allow) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 239.7697 142.25 Tm (Field value) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 231.3687 134.75 Tm (matches - record) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 245.8965 127.25 Tm (shown) Tj T* ET
+0 0 0 rg
+.984314 .878431 .878431 rg
+.752941 .223529 .168627 RG
+1 w
+n
+336 115 m
+384 115 l
+387.3168 115 390 117.6832 390 121 c
+390 164 l
+390 167.3168 387.3168 170 384 170 c
+336 170 l
+332.6832 170 330 167.3168 330 164 c
+330 121 l
+330 117.6832 332.6832 115 336 115 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 350.8313 147.5 Tm (Deny) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 334.7937 138.5 Tm (No match - record) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 350.5437 131 Tm (hidden) Tj T* ET
+0 0 0 rg
+.862745 .921569 .980392 rg
+.180392 .458824 .713725 RG
+1 w
+n
+211 25 m
+299 25 l
+302.3168 25 305 27.6832 305 31 c
+305 74 l
+305 77.3168 302.3168 80 299 80 c
+211 80 l
+207.6832 80 205 77.3168 205 74 c
+205 31 l
+205 27.6832 207.6832 25 211 25 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 211.0312 53.75 Tm (Record Table \(Database\)) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 212.1064 44.75 Tm (Incident / custom table records) Tj T* ET
+0 0 0 rg
+.87451 .94902 .882353 rg
+.180392 .545098 .239216 RG
+1 w
+n
+336 25 m
+424 25 l
+427.3168 25 430 27.6832 430 31 c
+430 74 l
+430 77.3168 427.3168 80 424 80 c
+336 80 l
+332.6832 80 330 77.3168 330 74 c
+330 31 l
+330 27.6832 332.6832 25 336 25 c
+h
+B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 356.66 53.75 Tm (System Logs) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 346.9061 44.75 Tm (ACL debug & audit logs) Tj T* ET
+0 0 0 rg
+.2 .2 .2 RG
+.2 .2 .2 rg
+1 w
+n 36 228 m 62 228 l S
+n 62 228 m 57.3947 229.9471 l 57.3947 226.0529 l h
+f*
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 38.49475 231 Tm (request) Tj T* ET
+.2 .2 .2 RG
+.2 .2 .2 rg
+1 w
+n 142 228 m 165 228 l S
+n 165 228 m 160.3947 229.9471 l 160.3947 226.0529 l h
+f*
+.2 .2 .2 RG
+.2 .2 .2 rg
+1 w
+n 250 228 m 272 228 l S
+n 272 228 m 267.3947 229.9471 l 267.3947 226.0529 l h
+f*
+.2 .2 .2 RG
+.2 .2 .2 rg
+1 w
+n 367 228 m 390 228 l S
+n 390 228 m 385.3947 229.9471 l 385.3947 226.0529 l h
+f*
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 371.8472 231 Tm (uses) Tj T* ET
+.2 .2 .2 RG
+.2 .2 .2 rg
+1 w
+n 185 200 m 150 170 l S
+n 150 170 m 154.7638 171.5188 l 152.2295 174.4754 l h
+f*
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 151.2722 187 Tm (check) Tj T* ET
+.180392 .545098 .239216 RG
+.180392 .545098 .239216 rg
+1 w
+n 300 200 m 262 170 l S
+n 262 170 m 266.8211 171.3254 l 264.4081 174.3819 l h
+f*
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 266.5725 185 Tm (true) Tj T* ET
+.752941 .223529 .168627 RG
+.752941 .223529 .168627 rg
+1 w
+n 340 200 m 360 170 l S
+n 360 170 m 359.0655 174.9119 l 355.8254 172.7518 l h
+f*
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 355.3472 185 Tm (false) Tj T* ET
+.2 .2 .2 RG
+.2 .2 .2 rg
+1 w
+n 255 115 m 255 80 l S
+n 255 80 m 256.9471 84.6053 l 253.0529 84.6053 l h
+f*
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 261.1708 97.5 Tm (fetch) Tj T* ET
+.752941 .223529 .168627 RG
+.752941 .223529 .168627 rg
+1 w
+n 360 115 m 360 80 l S
+n 360 80 m 361.9471 84.6053 l 358.0529 84.6053 l h
+f*
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 365.7979 97.5 Tm (log) Tj T* ET
+Q
+q
+1 0 0 1 78 140.8898 cm
+Q
+q
+1 0 0 1 78 116.8898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 14.5 Tm /F3 9.5 Tf 12 TL (Figure 1: Architecture and data flow of the Script-controlled ACL \(restrict record access based on field) Tj T* (value\) application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 108.8898 cm
+Q
+q
+1 0 0 1 78 96.88976 cm
+q
+.019608 .388235 .756863 RG
+n 51.737 1.3125 m 195.3485 1.3125 l S
+BT 1 0 0 1 0 2.5 Tm 12 TL /F2 9.5 Tf 0 0 0 rg (Reference:) Tj /F1 9.5 Tf ( ) Tj .019608 .388235 .756863 rg (https://developer.servicenow.com/) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057developer\056servicenow\056com\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 129.737 97.48976 273.3485 108.8898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000179 00000 n 
+0000000397 00000 n 
+0000011042 00000 n 
+0000011093 00000 n 
+0000011200 00000 n 
+0000011312 00000 n 
+0000011427 00000 n 
+0000011449 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+11652
+%%EOF
